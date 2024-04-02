@@ -42,7 +42,7 @@ Creado por:
 
 2. Loan Data
 
-    - [Notebook Loan Data](https://github.com/vbleal/DataViz/blob/main/Titanic/GH_DataViz_LoanData.ipynb)
+    - [Notebook Loan Data](https://github.com/vbleal/DataViz/blob/main/LoanData/GH_DataViz_LoanData.ipynb)
 
 
 
