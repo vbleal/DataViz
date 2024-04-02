@@ -85,3 +85,17 @@ Titanic
 
 
 
+
+## 📚 **Bibliografía**
+
+<details>
+    <summary> Expandir </summary>
+
+1. Waskom, M. (2018). ***An introduction to seaborn***. Recuperado de https://seaborn.pydata.org/introduction.html
+
+
+</details>
+
+----------------
+
+
